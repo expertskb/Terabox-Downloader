@@ -1,0 +1,5 @@
+RewriteEngine On
+
+RewriteRule ^file.asp$ /download.php [L]
+
+ErrorDocument 404 /
