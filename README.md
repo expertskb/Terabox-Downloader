@@ -7,7 +7,7 @@ fixed
 
 # How to setup [Video]
 
-https://vimeo.com/887876737?share=copy
+https://vimeo.com/887876737
 
 # Author
 Name :- Shakib Ahmed SAM
